@@ -30,6 +30,26 @@ Telegram
 
 </div>
 
+## 🔥 Используемые языки
+
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=list242&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)
+  
+</div>
+
+<div align="center">
+
+| Язык | Процент использования |
+|------|----------------------|
+| Python | 60.72% |
+| Java | 26.47% |
+| C | 4.90% |
+| JavaScript | 4.88% |
+| Yacc | 3.03% |
+
+</div>
+
 
 ## Статистика GitHub
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matvejv&show_icons=true&theme=radical&hide_border=true)  <!-- Замените matvejv на ваш ник -->
