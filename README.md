@@ -1,12 +1,15 @@
-# Привет! 👋 Я [Ваше имя или ник], студент по разработке ПО
+# Привет! 👋 Меня зовут Матвей!
 
 ![Banner image](https://example.com/your-banner.jpg)  <!-- Замените на ссылку на ваше изображение, например, с GitHub или внешнего хостинга -->
+<div align="center">
+  ![Scaler Create Impact](https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif)
+</div>
 
-## О себе
+## Обо мне
 - 🔭 Сейчас изучаю Java, Ruby on Rails, SQL и Verilog в RTU MIREA.
 - 💼 Занимаюсь управлением салонами красоты (YClients), LED-панелями и API.
 - 🌱 Хобби: готовка, электроника, маркетинг для beauty-индустрии.
-- 📫 Связаться: matvej.v@list.ru или [LinkedIn/Twitter].
+- 📫 Связаться: [matvej.v@list.ru](mailto:matvej.v@list.ru) или [LinkedIn/Twitter].
 
 ## Статистика GitHub
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=matvejv&show_icons=true&theme=radical&hide_border=true)  <!-- Замените matvejv на ваш ник -->
