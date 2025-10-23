@@ -38,15 +38,18 @@ Telegram
   
 </div>
 
+## 📓 Мои проекты
+
 <div align="center">
 
-| Язык | Процент использования |
-|------|----------------------|
-| Python | 60.72% |
-| Java | 26.47% |
-| C | 4.90% |
-| JavaScript | 4.88% |
-| Yacc | 3.03% |
+| Проект | Описание | Язык |
+|--------|----------|------|
+| 🧪 **[tests_ntk](https://github.com/list242/tests_ntk)** | Тесты для страницы NTK | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🧪 **[tests_disc](https://github.com/list242/tests_disc)** | Тестирование функционала | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🔐 **[tests_auth_upload](https://github.com/list242/tests_auth_upload)** | Тестирование авторизации | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 📦 **[tests_upload_zip_files](https://github.com/list242/tests_upload_zip_files)** | Тестирование загрузки файлов | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| 🔍 **[SQL-Python](https://github.com/list242/SQL-Python)** | Работа с SQL и Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| ☕ **[com.javarush.pakhalkov.quest](https://github.com/list242/com.javarush.pakhalkov.quest)** | Quest Java приложение | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
 
 </div>
 
