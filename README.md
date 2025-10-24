@@ -110,3 +110,15 @@ Junior Developer: **Java** | **Python** | **C++**. Портфолио реаль
   
 
 
+## 📓 Мои проекты
+
+| Проект | Описание | Stack |
+|--------|----------|-------|
+| 🚤 **[LETO](https://github.com/list242/LETO)** | Telegram-бот для аренды лодок с интеграцией YClients API | Python, FastAPI, Webhook |
+| ⚙️ **[hiring_master](https://github.com/list242/hiring_master)** | Планировщик задач (TypeScript) — async queue management | TypeScript, Promise |
+| 🧪 **[test_new_user](https://github.com/list242/test_new_user)** | E2E тестирование регистрации и загрузки файлов | Python, Selenium, Pytest |
+| 🧪 **[tests_disc_clone](https://github.com/list242/tests_disc_clone)** | Page Object Model тесты UI компонентов | Python, Selenium, POM |
+| 📦 **[tests_upload_zip_files](https://github.com/list242/tests_upload_zip_files_clone)** | Тестирование загрузки ZIP-архивов | Python, Selenium |
+
+---
+
