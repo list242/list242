@@ -21,7 +21,7 @@ Junior Developer: **Java** | **Python** | **C++**. Портфолио реаль
 - **Клиентская часть:** интерактивный UI с state management, валидацией форм, проверкой доступности через API-запросы
 - **Админ-панель:** автогенерация сертификатов (PDF), push-уведомления, CRUD операции для управления бронями
 - **Content automation:** автоматическая генерация постов для Telegram-канала через Unsplash API (image processing, text generation)
-- **Deployment-ready:** конфигурация для VPS/cloud (Railway, Render), возможность миграции на PostgreSQL/MySQL
+- **Deployment-ready:** конфигурация для VPS/cloud Railway, возможность миграции на PostgreSQL/MySQL
 
 ### 2. ⚙️ Планировщик задач (TypeScript)
 **Stack:** TypeScript, Async/Await, Promise, Event Loop optimization
@@ -29,7 +29,6 @@ Junior Developer: **Java** | **Python** | **C++**. Портфолио реаль
 - Разработал асинхронную функцию управления очередью с ограничением параллельности (maxThreads)
 - Оптимизация работы с Promise chains, deadlock prevention, memory leak handling
 - Прошел performance testing, получил approval от tech lead
-- Демонстрирует понимание: concurrency, async patterns, resource management
 
 ### 3. 🧪 Автотестирование UI/API (Python + Selenium)
 **Stack:** Python, Selenium WebDriver, Page Object Model, Pytest, Fixture management
