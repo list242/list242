@@ -8,12 +8,6 @@ Telegram: @E_390
 
 ## 👨‍💻 Обо мне
 
-Начинающий разработчик на языке **Java** с опытом в **Python** и **C++**. Имею опыт написания учебных проектов и портфолио с несколькими реализациями проектов для реальных задач.
-
-***
-
-## 👨‍💻 Обо мне
-
 Junior Developer: **Java** | **Python** | **C++**. Портфолио реальных проектов с интеграцией API, автоматизацией и тестированием.
 
 ---
@@ -77,7 +71,7 @@ Junior Developer: **Java** | **Python** | **C++**. Портфолио реаль
 
 ***
 
-## 📊 Опыт работы в Project Management
+## 📊 Опыт работы
 
 **Позиция:** Project Manager Assistant @ **PyShop** (аутсорс-студия)
 
@@ -115,22 +109,5 @@ Junior Developer: **Java** | **Python** | **C++**. Портфолио реаль
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=list242&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500)
   
-</div>
-
-## 📓 Мои проекты
-
-<div align="center">
-
-| Проект | Описание | Язык |
-|--------|----------|------|
-| 🧪 **[tests_ntk](https://github.com/list242/tests_ntk)** | Тесты для страницы NTK | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🧪 **[tests_disc](https://github.com/list242/tests_disc)** | Тестирование функционала | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🔐 **[tests_auth_upload](https://github.com/list242/tests_auth_upload)** | Тестирование авторизации | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 📦 **[tests_upload_zip_files](https://github.com/list242/tests_upload_zip_files)** | Тестирование загрузки файлов | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| 🔍 **[SQL-Python](https://github.com/list242/SQL-Python)** | Работа с SQL и Python | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
-| ☕ **[com.javarush.pakhalkov.quest](https://github.com/list242/com.javarush.pakhalkov.quest)** | Quest Java приложение | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) |
-
-</div>
-
 
 
