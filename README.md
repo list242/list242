@@ -63,21 +63,6 @@ Telegram: @E_390
 - Git workflows (feature branches, pull requests), GitLab CI/CD pipelines
 - Docker containerization, environment configuration
 
-***
-
-## 📊 Опыт работы
-
-**Позиция:** Project Manager Assistant @ **PyShop** (аутсорс-студия)
-
-**Методология:** Agile (Scrum framework), Sprint planning, daily standups, retrospectives
-**Tools:** GitLab (issue tracking, merge requests), CI/CD automation
-**Проекты:** B2B-разработка (CRM systems, web scrapers, платформы)
-**Команда:** 10–15 full-time + scaling до 30+ (стажировки, external contributors)
-**Модель работы:** Remote-first, async communication
-
-**Компетенции:** Atlassian stack (Jira, Confluence), backlog grooming, stakeholder management, velocity tracking
-
-***
 
 **Развиваюсь как разработчик полного цикла: от реализации кода до автоматизации бизнес-процессов.** 🚀
 ## 🛠️ Технологии и инструменты
